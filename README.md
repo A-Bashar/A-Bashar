@@ -11,16 +11,13 @@
   
 <div>
   <h2> Certifications: </h2>
-  <h3> Technical: </h3>
   <ul>
-    <li><a href="https://www.freecodecamp.org/certification/a_bashar/responsive-web-design">Responsive Web Design from freeCodeCamp<a></li>
-    <li><a href="https://www.hackerrank.com/certificates/1e7705f8b119">JavaScript(Basic) from HackerRank<a></li>
-      <li><a href="https://www.hackerrank.com/certificates/370f0b8ca346">CSS from HackerRank<a></li>
-    <li><a href="https://www.sololearn.com/Certificate/1014-7501469/jpg">HTML Fundamentals from Sololearn<a></li>
-  </ul>
-  <h3> Non-technical: </h3>
-  <ul>
-    <li><a href="https://starting-up.org/certificate/faulty-eggnog-2492">Starting Up from Aalto University<a></li>
+    <li><a href="https://www.freecodecamp.org/certification/a_bashar/responsive-web-design">Responsive Web Design from freeCodeCamp</a></li>
+    <li><a href="https://www.hackerrank.com/certificates/1e7705f8b119">JavaScript(Basic) from HackerRank</a></li>
+    <li><a href="https://www.hackerrank.com/certificates/370f0b8ca346">CSS from HackerRank</a></li>
+    <li><a href="https://www.sololearn.com/Certificate/1014-7501469/jpg">HTML Fundamentals from Sololearn</a></li>
+    <li><a href="https://certificates.mooc.fi/validate/10subxzoz0v">Elements of AI: Introduction to AI from University of Helsinki</a></li>
+    <li><a href="https://starting-up.org/certificate/faulty-eggnog-2492">Starting Up from Aalto University</a></li>
   </ul>
 </div>
 
