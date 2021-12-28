@@ -18,6 +18,8 @@
     <li><a href="https://www.sololearn.com/Certificate/1014-7501469/jpg">HTML Fundamentals from Sololearn</a></li>
     <li><a href="https://certificates.mooc.fi/validate/10subxzoz0v">Elements of AI: Introduction to AI from University of Helsinki</a></li>
     <li><a href="https://starting-up.org/certificate/faulty-eggnog-2492">Starting Up from Aalto University</a></li>
+    <li><a href="https://www.futurelearn.com/certificates/2ow6yhc">Introduction to Virtual, Augmented and Mixed Reality from Lancaster University and Institute of Coding</a></li>
+    <li><a href="https://www.futurelearn.com/certificates/ehe9dl3">Principles of Engineering from King's College London</a></li>
   </ul>
 </div>
 
