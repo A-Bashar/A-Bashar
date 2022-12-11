@@ -12,6 +12,7 @@
 <div>
   <h2> Certifications: </h2>
   <ul>
+    <li><a href="https://cs50.harvard.edu/certificates/361c7610-1ded-4554-8fec-6e7b8f1d1216">CS50’s Introduction to Computer Science from Harvard University</a></li>
     <li><a href="https://www.freecodecamp.org/certification/a_bashar/responsive-web-design">Responsive Web Design from freeCodeCamp</a></li>
     <li><a href="https://www.hackerrank.com/certificates/1e7705f8b119">JavaScript(Basic) from HackerRank</a></li>
     <li><a href="https://www.hackerrank.com/certificates/370f0b8ca346">CSS from HackerRank</a></li>
